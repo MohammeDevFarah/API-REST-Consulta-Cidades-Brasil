@@ -1,6 +1,6 @@
 # Cities API
 
-## Requirements
+## Requerimentos
 
 * Linux
 * Git
